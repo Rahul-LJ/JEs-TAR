@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siranjeevi
 - 🌱 I’m currently learning tkinter
-- 📫 ~~How to reach me~~ dont
+- 📫 <a href = https://www.instagram.com/_siranjeevi_08 > Reach out on insta </a>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
