@@ -4,6 +4,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEs-TAR&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Siranjeevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEs-TAR&show_icons=true)
 
 <p align="left">
 </p>
