@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Siranjeevi
-- 🌱 I’m currently learning tkinter
-- 📫 <a href = https://www.instagram.com/_siranjeevi_08 > Reach out on insta </a>
+Hi there, 
+I'm Siranjeevi
+<a href = https://www.instagram.com/_siranjeevi_08 > you can reach out on insta </a>
+
+ᶜᵘʳʳᵉⁿᵗˡʸ ˡᵉᵃʳⁿᶦⁿᵍ ᵐᵃᵖᵖᶦⁿᵍ
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Info :) </b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEs-TAR&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
